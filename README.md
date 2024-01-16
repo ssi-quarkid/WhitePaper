@@ -1,0 +1,2 @@
+# WhitePaper
+QuarkID Protocolo Whitpaper
